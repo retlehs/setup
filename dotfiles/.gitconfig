@@ -1,0 +1,33 @@
+[user]
+  name = Ben Word
+  email = ben@benword.com
+
+[alias]
+  l       = log --pretty=oneline -n 20 --graph
+  s       = status -s
+  st      = status
+
+[push]
+  default = current
+
+[color]
+  ui = auto
+
+[color "diff"]
+  meta = blue bold
+  frag = magenta bold
+  old = red bold
+  new = green bold
+
+[color "branch"]
+  current = yellow reverse
+  local = yellow bold
+  remote = green bold
+  plain = red bold
+
+[color "status"]
+  added = yellow
+  changed = green bold
+  untracked = blue bold
+[core]
+	excludesfile = /Users/ben/.gitignore_global
