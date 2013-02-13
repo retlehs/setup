@@ -1,5 +1,5 @@
 [user]
-  name = Ben Word
+  name  = Ben Word
   email = ben@benword.com
 
 [alias]
@@ -16,18 +16,18 @@
 [color "diff"]
   meta = blue bold
   frag = magenta bold
-  old = red bold
-  new = green bold
+  old  = red bold
+  new  = green bold
 
 [color "branch"]
   current = yellow reverse
-  local = yellow bold
-  remote = green bold
-  plain = red bold
+  local   = yellow bold
+  remote  = green bold
+  plain   = red bold
 
 [color "status"]
-  added = yellow
-  changed = green bold
+  added     = yellow
+  changed   = green bold
   untracked = blue bold
 [core]
-	excludesfile = /Users/ben/.gitignore_global
+  excludesfile = /Users/ben/.gitignore_global
