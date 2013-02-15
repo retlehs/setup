@@ -38,10 +38,11 @@
   * [dnsmasq](http://www.echoditto.com/blog/never-touch-your-local-etchosts-file-os-x-again)
   * mysql
   * node
+  * rbenv
+  * ruby-build
   * wget
 * npm
   * grunt
   * jshint
   * uglifyjs
 * oh-my-zsh
-* RVM
