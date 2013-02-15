@@ -35,6 +35,7 @@
 ## Terminal
 
 * Homebrew
+  * [dnsmasq](http://www.echoditto.com/blog/never-touch-your-local-etchosts-file-os-x-again)
   * mysql
   * node
   * wget
