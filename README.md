@@ -18,6 +18,7 @@
 * Snapplr
 * Steam
 * Sublime Text 2
+  * CSScomb
   * Package Control
   * Theme - Soda
   * LESS
