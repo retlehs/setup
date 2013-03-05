@@ -9,6 +9,8 @@ plugins=(git osx sublime brew npm)
 
 source $ZSH/oh-my-zsh.sh
 
+export PATH="$PATH:/usr/local/share/npm/bin/"
+
 export EDITOR="/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl -w"
 export HISTSIZE=4096
 
