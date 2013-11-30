@@ -17,6 +17,7 @@
 * HipChat
 * iTerm2
 * Mou
+* ScreenFlow
 * Sequel Pro
 * Sketch
 * Skype
