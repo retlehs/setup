@@ -6,7 +6,6 @@
 * Audacity
 * Boom
 * Boxer
-* CodeKit
 * ColorSnapper
 * Dropbox
 * Firefox
