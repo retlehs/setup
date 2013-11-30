@@ -20,7 +20,6 @@
 * Sequel Pro
 * Sketch
 * Skype
-* Snapplr
 * Spotify
 * Steam
 * Sublime Text 2
