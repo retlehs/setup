@@ -47,6 +47,8 @@
   * android-sdk 
   * [dnsmasq](http://www.echoditto.com/blog/never-touch-your-local-etchosts-file-os-x-again)
   * mysql
+    * `sudo mkdir /var/mysql`
+    * `sudo ln -s /tmp/mysql.sock /var/mysql/mysql.sock`
   * node
   * optipng
   * phantomjs
