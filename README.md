@@ -1,7 +1,9 @@
 ## Applications
 
 * 1Password
+* Adium
 * Arq
+* Audacity
 * Boom
 * Boxer
 * CodeKit
@@ -11,11 +13,15 @@
 * Gas Mask
 * Google Chrome
 * Google Chrome Canary
+* HandBrake
+* HipChat
 * iTerm2
 * Mou
 * Sequel Pro
+* Sketch
 * Skype
 * Snapplr
+* Spotify
 * Steam
 * Sublime Text 2
   * CSScomb
@@ -27,6 +33,7 @@
 * TotalFinder
 * Transmission
 * Transmit
+* Vagrant
 * VirtualBox
   * [modern.IE](http://www.modern.ie/en-us/virtualization-tools)
 * VLC
@@ -49,6 +56,7 @@
   * bower 
   * grunt-cli
   * jshint
+  * svgo
   * uglifyjs
   * yo
 * oh-my-zsh
