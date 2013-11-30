@@ -35,16 +35,22 @@
 ## Terminal
 
 * Homebrew
+  * ack
+  * android-sdk 
   * [dnsmasq](http://www.echoditto.com/blog/never-touch-your-local-etchosts-file-os-x-again)
   * mysql
   * node
+  * optipng
+  * phantomjs
   * rbenv
   * ruby-build
   * wget
-* npm
-  * grunt
+* npm (global)
+  * bower 
+  * grunt-cli
   * jshint
   * uglifyjs
+  * yo
 * oh-my-zsh
 
 ## Sensible OS X Defaults
