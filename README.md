@@ -63,3 +63,7 @@
   * yo
 * oh-my-zsh
 * [Sensible OS X Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.osx)
+
+## General
+
+* Enable "Ask to keep changes when closing documents"
