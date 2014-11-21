@@ -1,8 +1,7 @@
 ## Applications
 
 * 1Password
-* Adium
-* Arq
+* Ansible
 * Audacity
 * Boom
 * Boxer
@@ -13,23 +12,22 @@
 * Google Chrome
 * Google Chrome Canary
 * HandBrake
-* HipChat
 * iTerm2
 * Mou
+* Pixelmator
 * ScreenFlow
 * Sequel Pro
+* Slack
 * Sketch
 * Skype
 * Spotify
 * Steam
-* Sublime Text 2
+* Sublime Text 3
   * CSScomb
   * Package Control
-  * Theme - Soda
   * LESS
   * EditorConfig
 * The Unarchiver
-* TotalFinder
 * Transmission
 * Transmit
 * Twitter
@@ -43,20 +41,18 @@
 
 * Homebrew
   * ack
-  * android-sdk 
-  * [dnsmasq](http://www.echoditto.com/blog/never-touch-your-local-etchosts-file-os-x-again)
+  * android-sdk
   * mysql
     * `sudo mkdir /var/mysql`
     * `sudo ln -s /tmp/mysql.sock /var/mysql/mysql.sock`
-  * node
   * optipng
   * phantomjs
-  * rbenv
-  * ruby-build
+  * rbenv & ruby-build
   * wget
-* npm (global)
-  * bower 
+* nvm (for node/npm)
+  * bower
   * grunt-cli
+  * gulp
   * jshint
   * svgo
   * uglifyjs
