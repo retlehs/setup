@@ -25,7 +25,7 @@
 * Sublime Text 3
   * CSScomb
   * Package Control
-  * LESS
+  * Less
   * EditorConfig
 * The Unarchiver
 * Transmission
@@ -33,7 +33,6 @@
 * Twitter
 * Vagrant
 * VirtualBox
-  * [modern.IE](http://www.modern.ie/en-us/virtualization-tools)
 * VLC
 * Xcode
 
@@ -42,9 +41,6 @@
 * Homebrew
   * ack
   * android-sdk
-  * mysql
-    * `sudo mkdir /var/mysql`
-    * `sudo ln -s /tmp/mysql.sock /var/mysql/mysql.sock`
   * optipng
   * phantomjs
   * rbenv & ruby-build

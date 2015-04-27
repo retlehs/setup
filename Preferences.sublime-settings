@@ -1,17 +1,17 @@
 {
-	"default_line_ending": "unix",
+  "default_line_ending": "unix",
   "fallback_encoding": "UTF-8",
   "font_size": 12,
   "highlight_line": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"rulers":
-	[
-		100
-	],
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "rulers":
+  [
+    100
+  ],
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
 }
