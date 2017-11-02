@@ -31,9 +31,8 @@
 
 ## Terminal
 
-* Composer
-  * laravel/valet
-  * squizlabs/php_codesniffer
+* oh-my-zsh
+* [Sensible macOS defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
 * Homebrew
   * ack
   * awscli
@@ -43,14 +42,16 @@
   * sshpass
   * wget
   * yarn
+* Composer
+  * laravel/valet
+  * squizlabs/php_codesniffer
 * Node.js via [nvm](https://github.com/creationix/nvm), globally installed packages:
   * bower
-  * gulp
+  * gulp-cli
   * jshint
+  * stylelint
   * svgo
   * uglifyjs
-* oh-my-zsh
-* [Sensible OS X Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
 
 ## General
 
