@@ -6,15 +6,13 @@
 * Audacity
 * Boom
 * Boxer
-* ColorSnapper
 * Dropbox
 * Firefox
-* Gas Mask
 * Google Chrome
 * Google Chrome Canary
 * HandBrake
+* ImageOptim
 * iTerm2
-* Mou
 * Pixelmator
 * ScreenFlow
 * Sequel Pro
@@ -26,7 +24,6 @@
 * The Unarchiver
 * Transmission
 * Transmit
-* Twitter
 * Vagrant
 * VirtualBox
 * VLC
@@ -34,21 +31,26 @@
 
 ## Terminal
 
+* Composer
+  * laravel/valet
+  * squizlabs/php_codesniffer
 * Homebrew
   * ack
-  * android-sdk
-  * optipng
-  * phantomjs
+  * awscli
+  * mariadb
+  * php71
   * rbenv & ruby-build
+  * sshpass
   * wget
-* nvm (for node/npm)
+  * yarn
+* Node.js via [nvm](https://github.com/creationix/nvm), globally installed packages:
   * bower
   * gulp
   * jshint
   * svgo
   * uglifyjs
 * oh-my-zsh
-* [Sensible OS X Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.osx)
+* [Sensible OS X Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
 
 ## General
 
