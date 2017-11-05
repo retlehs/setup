@@ -38,6 +38,8 @@
   * awscli
   * mariadb
   * php71
+  * python
+    * pip2 install ansible
   * rbenv & ruby-build
   * sshpass
   * wget
@@ -52,6 +54,8 @@
   * stylelint
   * svgo
   * uglifyjs
+* wp-cli
+  * aaemnnosttv/wp-cli-login-command
 
 ## General
 
