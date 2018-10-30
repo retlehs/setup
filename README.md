@@ -57,7 +57,13 @@
 * wp-cli
   * aaemnnosttv/wp-cli-login-command
 
-## General
+## Settings
+
+### General
 
 * Enable "Ask to keep changes when closing documents"
 * iTerm: Preferences > Profiles > Session > "Always prompt before closing"
+
+### Keyboard
+
+* Shortcuts > App Shortcuts > Add "Paste and Match Style" with ⌘V
