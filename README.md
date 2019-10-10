@@ -20,6 +20,7 @@
 * Spotify
 * Steam
 * The Unarchiver
+* Toggl
 * Transmission
 * Transmit
 * Vagrant
