@@ -24,6 +24,7 @@
 * Transmit
 * Vagrant
 * VirtualBox
+* VS Code
 * VLC
 * Xcode
 
