@@ -3,9 +3,9 @@
   email = ben@benword.com
 
 [alias]
-  l       = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-  s       = status -s
-  st      = status
+  l  = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  s  = status -s
+  st = status
 
 [push]
   default = current
@@ -29,5 +29,7 @@
   added     = yellow
   changed   = green bold
   untracked = blue bold
+
 [core]
   excludesfile = /Users/ben/.gitignore_global
+  editor = code --wait
