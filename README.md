@@ -42,12 +42,13 @@
   * kops
   * kubernetes-cli
   * mariadb
-  * php71
+  * php@7.3
   * python
     * pip2 install ansible
   * rbenv & ruby-build
   * sshpass
   * wget
+  * youtube-dl
 * Composer
   * laravel/valet
   * squizlabs/php_codesniffer
