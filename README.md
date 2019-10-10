@@ -1,11 +1,10 @@
 ## Applications
 
 * 1Password
-* Ansible
-* Atom
 * Audacity
 * Boom
 * Boxer
+* Docker
 * Dropbox
 * Firefox
 * Google Chrome
@@ -18,7 +17,6 @@
 * Sequel Pro
 * Slack
 * Sketch
-* Skype
 * Spotify
 * Steam
 * The Unarchiver
@@ -31,11 +29,16 @@
 
 ## Terminal
 
-* oh-my-zsh
+* Prezto
 * [Sensible macOS defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
 * Homebrew
   * ack
   * awscli
+  * gettext
+  * gifsicle
+  * git-lfs
+  * kops
+  * kubernetes-cli
   * mariadb
   * php71
   * python
@@ -43,17 +46,12 @@
   * rbenv & ruby-build
   * sshpass
   * wget
-  * yarn
 * Composer
   * laravel/valet
   * squizlabs/php_codesniffer
-* Node.js via [nvm](https://github.com/creationix/nvm), globally installed packages:
-  * bower
-  * gulp-cli
-  * jshint
-  * stylelint
+* Node.js via [nvm](https://github.com/creationix/nvm)
   * svgo
-  * uglifyjs
+  * yarn
 * wp-cli
   * aaemnnosttv/wp-cli-login-command
 
