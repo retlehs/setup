@@ -1,28 +1,26 @@
 ## Applications
 
 * 1Password
-* Audacity
-* Boom
-* Boxer
+* Discord
 * Docker
 * Dropbox
 * Firefox
 * Google Chrome
 * Google Chrome Canary
+* Google Earth Pro
 * HandBrake
 * ImageOptim
 * iTerm2
+* krisp
 * Pixelmator
 * ScreenFlow
 * Sequel Pro
-* Slack
 * Sketch
+* Slack
 * Spotify
-* Steam
 * The Unarchiver
 * Toggl
 * Transmission
-* Transmit
 * Vagrant
 * VirtualBox
 * VS Code
@@ -36,27 +34,12 @@
 * Homebrew
   * ack
   * awscli
+  * composer
   * gettext
-  * gifsicle
-  * git-lfs
-  * kops
-  * kubernetes-cli
-  * mariadb
-  * php@7.3
-  * python
-    * pip2 install ansible
-  * rbenv & ruby-build
-  * sshpass
+  * pyenv
   * wget
   * youtube-dl
-* Composer
-  * laravel/valet
-  * squizlabs/php_codesniffer
 * Node.js via [nvm](https://github.com/creationix/nvm)
-  * svgo
-  * yarn
-* wp-cli
-  * aaemnnosttv/wp-cli-login-command
 
 ## Settings
 
@@ -68,3 +51,7 @@
 ### Keyboard
 
 * Shortcuts > App Shortcuts > Add "Paste and Match Style" with ⌘V
+* Modifier keys for MS Ergo:
+  * Option Key: Command
+  * Command Key: Option
+  * Function Key: N/A
